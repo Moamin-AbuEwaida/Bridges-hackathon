@@ -40,6 +40,7 @@ Example : kahoot
 3. ### A platform to grant badges to others based on recommendations
 
  With this app, a User can nominate a company/individual based on their contribution to increase participation of girls and women in STEM education and careers. 
+ 
  Example: [gitHub stars](https://stars.github.com/nominate/)
 
 4. ### Gamification platform (intended for children- and young people)
@@ -47,6 +48,8 @@ Example : kahoot
 Today kids are very much into gaming so the best we can do is to implement play and learning together in one app.
 Young minds can be influenced to understand that we are all different and we need to accept everyone and treat people with equality. A game that has focus on rewards like badges that they can earn for perhaps recognizing how to treat a certain situation.
 Earn enough badges and it opens up a new part of the game so they will strive to do their best.
+ 
+Example: [Sentences vs. Fragment](https://www.education.com/game/floyd-danger-sorting-sentences/)
 
 </details>
 
