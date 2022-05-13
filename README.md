@@ -11,6 +11,13 @@ BRIDGES aims at designing, implementing and evaluating Open STEM Ecosystems base
 
 In today's hackathon, we want you to create a  product prototype based on specific topic ideas using Agile Development methodology.
 
+### What is product prototype 
+
+A product prototype can be any mock-up or demo of what a website will look like when it goes live.It can be anything from a paper sketch to a clickable wireframe prototype.
+
+Essentially, a website prototype allows the project stakeholders to see what the final product will look like early in the project lifecycle.
+
+
 
 
 <details><summary>Topics </summary>
@@ -70,6 +77,9 @@ The user stories in your Backlog are sorted by priority, but not written in any 
 ![story-sequencing](./assets/Untitled-2022-05-13-1316.excalidraw.png)
 
 ### Sprint-5 design your prototype (figma)
+
+Using [figma](https://www.figma.com/),design the visiual of the app.
+
 
 </details>
 
