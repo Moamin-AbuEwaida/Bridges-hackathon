@@ -40,6 +40,7 @@ Example : kahoot
 3. ### A platform to grant badges to others based on recommendations
 
  With this app, a User can nominate a company/individual based on their contribution to increase participation of girls and women in STEM education and careers. 
+ Example: [gitHub stars](https://stars.github.com/nominate/)
 
 4. ### Gamification platform (intended for children- and young people)
 
