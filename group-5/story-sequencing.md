@@ -1,3 +1,3 @@
 # Story sequences
 
-![story-sequencing](./../assets/wireframe.png)
+![wireframe](./../assets/new.svg)
