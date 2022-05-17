@@ -11,4 +11,4 @@ topic number 3, Exchange badges idea
 - [Rosa](https://github.com/RosaMoran)
 - [Moanin](https://github.com/Moamin-AbuEwaida)
 - [Dnyandeo](https://github.com/Dnyandeo33)
-- [Haneefa](ttps://github.com/Haneefa-Shaik)
+- [Haneefa](https://github.com/Haneefa-Shaik)
