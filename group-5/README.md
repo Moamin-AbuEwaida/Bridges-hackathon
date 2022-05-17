@@ -15,4 +15,5 @@ topic number 3, Exchange badges idea
 
 ## Figma link
 
+The file still needs a lot of work to have more clear and solid project to build
 [STEMers](https://www.figma.com/file/02tg8NzR0SkHxP72H42maI/Stemers?node-id=0%3A1)
